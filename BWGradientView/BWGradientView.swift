@@ -9,7 +9,7 @@
 import UIKit
 import QuartzCore
 
-@IBDesignable class BWGradientView: UIView {
+@IBDesignable public class BWGradientView: UIView {
     
     
     // MARK: Inspectable properties ******************************
